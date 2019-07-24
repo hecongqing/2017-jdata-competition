@@ -1,4 +1,4 @@
-# 2017-jdata-competition
+# 2017 JData Competition
 高潜用户购买意向预测-rank12
  
 赛题网址：https://www.datafountain.cn/competitions/247/details/data-evaluation
