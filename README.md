@@ -25,7 +25,8 @@ https://www.datafountain.cn/competitions/247/details/data-evaluation
 
 此处的F1值定义为：
 
-$F_{11}=6Recall \dot Precise/(5Recall+Precise)$
-$F_{12}=5Recall \dot Precise/(2Recall+3 \dot Precise)$
+<a href="https://www.codecogs.com/eqnedit.php?latex=F_{11}=&space;\frac{6Recall&space;\cdot&space;Precise}{5Recall&plus;Precise}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?F_{11}=&space;\frac{6Recall&space;\cdot&space;Precise}{5Recall&plus;Precise}" title="F_{11}= \frac{6Recall \cdot Precise}{5Recall+Precise}" /></a>
 
-其中，Precise为准确率，Recall为召回率.$F_{11}是label=1或0的F1值，$F_{12}是pred=1或0的F1值.
+<a href="https://www.codecogs.com/eqnedit.php?latex=F_{12}=&space;\frac{5Recall&space;\cdot&space;Precise}{2Recall&plus;3&space;\cdot&space;Precise}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?F_{12}=&space;\frac{5Recall&space;\cdot&space;Precise}{2Recall&plus;3&space;\cdot&space;Precise}" title="F_{12}= \frac{5Recall \cdot Precise}{2Recall+3 \cdot Precise}" /></a>
+
+其中，Precise为准确率，Recall为召回率.<a href="https://www.codecogs.com/eqnedit.php?latex=F_{11}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?F_{11}" title="F_{11}" /></a>是label=1或0的F1值，<a href="https://www.codecogs.com/eqnedit.php?latex=F_{12}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?F_{12}" title="F_{12}" /></a>是pred=1或0的F1值.
