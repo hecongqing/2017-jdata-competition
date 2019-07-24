@@ -21,7 +21,7 @@ https://www.datafountain.cn/competitions/247/details/data-evaluation
 
 对于参赛者提交的结果文件，按如下公式计算得分：
 
-$Score=0.4F_{11} + 0.6F_{12}$
+<a href="https://www.codecogs.com/eqnedit.php?latex=$Score=0.4F_{11}&space;&plus;&space;0.6F_{12}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$Score=0.4F_{11}&space;&plus;&space;0.6F_{12}$" title="$Score=0.4F_{11} + 0.6F_{12}$" /></a>
 
 此处的F1值定义为：
 
